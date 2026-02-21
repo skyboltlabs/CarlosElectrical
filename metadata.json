@@ -1,0 +1,7 @@
+{
+  "name": "Carlos Electrical - 24/7 Cape Town Services",
+  "description": "A high-converting, mobile-responsive website for Carlos Electrical & Handyman services in Cape Town, specializing in 24/7 electrical repairs and general maintenance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
