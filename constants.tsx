@@ -122,19 +122,19 @@ export const PORTFOLIO_ITEMS = [
   {
     title: "Lawn Restoration",
     category: "Garden",
-    image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1708724327011-d1233673e730?auto=format&fit=crop&q=80&w=800",
     description: "Complete landscaping, lawn restoration, and irrigation setup in Sea Point."
   },
   {
     title: "Custom Timber Decking",
     category: "Handyman",
-    image: "https://images.unsplash.com/photo-1621333100299-6e9f19565554?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1714321589197-27752729f3bd?auto=format&fit=crop&q=80&w=800",
     description: "Built a sustainable timber deck and outdoor seating area for a family home."
   },
   {
     title: "Industrial High-Bay Lighting",
     category: "Electrical",
-    image: "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1546102741-936b7dcc25af?auto=format&fit=crop&q=80&w=800",
     description: "Energy-efficient LED lighting installation for a 2000sqm warehouse."
   },
   {
@@ -146,7 +146,7 @@ export const PORTFOLIO_ITEMS = [
   {
     title: "Precision Hedge Trimming",
     category: "Garden",
-    image: "https://images.unsplash.com/photo-1599839619722-397514119222?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1734079692079-172d8243ebd3?auto=format&fit=crop&q=80&w=800",
     description: "Routine maintenance and artistic trimming for a large estate garden."
   },
   {
@@ -158,7 +158,7 @@ export const PORTFOLIO_ITEMS = [
   {
     title: "Full Site Clearance",
     category: "Garden",
-    image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1773852184074-e7ecb1dd3665?auto=format&fit=crop&q=80&w=800",
     description: "Removing overgrown vegetation and refuse from a newly purchased plot."
   },
   {
@@ -170,7 +170,7 @@ export const PORTFOLIO_ITEMS = [
   {
     title: "Security Lighting",
     category: "Electrical",
-    image: "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1764857558281-3b804f32463e?auto=format&fit=crop&q=80&w=800",
     description: "Installation of sensor-activated floodlights for a residential perimeter."
   }
 ];
