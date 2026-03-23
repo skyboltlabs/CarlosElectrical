@@ -545,7 +545,7 @@ const App: React.FC = () => {
                     </div>
                   </div>
                 </article>
-                <aside className="relative"><img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=1000" alt="Our Professional Technician Team" className="rounded-[4rem] relative z-10 shadow-2xl" /><div className="absolute top-20 -right-10 bg-yellow-400 text-charcoal p-10 rounded-[2.5rem] z-20 shadow-2xl max-w-xs md:block hidden animate-bounce-slow"><p className="text-6xl font-black mb-2">15+</p><p className="font-black text-sm uppercase tracking-wider">Years Serving Cape Town</p></div></aside>
+                <aside className="relative"><img src="https://raw.githubusercontent.com/skyboltlabs/CarlosElectrical/refs/heads/main/calelectric.jpg?auto=format&fit=crop&q=80&w=1000" alt="Our Professional Technician Team" className="rounded-[4rem] relative z-10 shadow-2xl" /><div className="absolute top-20 -right-10 bg-yellow-400 text-charcoal p-10 rounded-[2.5rem] z-20 shadow-2xl max-w-xs md:block hidden animate-bounce-slow"><p className="text-6xl font-black mb-2">15+</p><p className="font-black text-sm uppercase tracking-wider">Years Serving Cape Town</p></div></aside>
               </div>
             </div>
           </section>
