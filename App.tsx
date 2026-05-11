@@ -617,6 +617,12 @@ const App: React.FC = () => {
             <div><h4 className="text-xs font-black mb-10 uppercase tracking-[0.3em] text-blue-500">Cape Town Office</h4><ul className="space-y-8"><li className="flex gap-5"><MapPin className="text-blue-500 w-6 h-6 flex-shrink-0" /><span className="text-gray-400 font-bold text-lg">{BUSINESS_INFO.address}</span></li><li className="flex gap-5"><Phone className="text-blue-500 w-6 h-6 flex-shrink-0" /><a href={`tel:${BUSINESS_INFO.phoneFormatted}`} className="text-2xl font-black hover:text-blue-400 transition-colors">{BUSINESS_INFO.phone}</a></li><li className="flex gap-5 bg-white/5 p-6 rounded-3xl border border-white/10"><Clock className="text-yellow-400 w-8 h-8 flex-shrink-0 animate-pulse" /><div><p className="text-white font-black text-xl leading-tight">24/7 Support Active</p></div></li></ul></div>
           </div>
           <div className="pt-16 border-t border-white/5 text-center text-gray-500 text-sm font-black flex flex-col md:flex-row justify-between items-center gap-6"><p>© {new Date().getFullYear()} {BUSINESS_INFO.name}. Licensed Electrician Cape Town.</p></div>
+          <span className="flex items-center gap-1 text-[11px] sm:text-xs">
+            Built by{" "}
+            <a href="https://skyboltlabs.co.za" target="_blank" rel="noreferrer" className="bg-gradient-to-r from-sky-400 to-indigo-400 bg-clip-text text-transparent font-medium hover:opacity-80 transition-opacity">
+              Skybolt Labs
+            </a>
+          </span>
         </div>
       </footer>
 
